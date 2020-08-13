@@ -1353,6 +1353,18 @@
   resolved "https://registry.npm.taobao.org/@vue/preload-webpack-plugin/download/@vue/preload-webpack-plugin-1.1.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fpreload-webpack-plugin%2Fdownload%2F%40vue%2Fpreload-webpack-plugin-1.1.2.tgz#ceb924b4ecb3b9c43871c7a429a02f8423e621ab"
   integrity sha1-zrkktOyzucQ4ccekKaAvhCPmIas=
 
+"@vue/reactivity@^3.0.0-rc.5":
+  version "3.0.0-rc.5"
+  resolved "https://registry.npm.taobao.org/@vue/reactivity/download/@vue/reactivity-3.0.0-rc.5.tgz?cache=0&sync_timestamp=1595984293372&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Freactivity%2Fdownload%2F%40vue%2Freactivity-3.0.0-rc.5.tgz#45cff8d839d7ad130b1e499239090050fdecff13"
+  integrity sha1-Rc/42DnXrRMLHkmSOQkAUP3s/xM=
+  dependencies:
+    "@vue/shared" "3.0.0-rc.5"
+
+"@vue/shared@3.0.0-rc.5":
+  version "3.0.0-rc.5"
+  resolved "https://registry.npm.taobao.org/@vue/shared/download/@vue/shared-3.0.0-rc.5.tgz?cache=0&sync_timestamp=1595984292780&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40vue%2Fshared%2Fdownload%2F%40vue%2Fshared-3.0.0-rc.5.tgz#cea2378e3e37363ddc1f5dd158edc9c9b5b3fff0"
+  integrity sha1-zqI3jj43Nj3cH13RWO3JybWz//A=
+
 "@vue/web-component-wrapper@^1.2.0":
   version "1.2.0"
   resolved "https://registry.npm.taobao.org/@vue/web-component-wrapper/download/@vue/web-component-wrapper-1.2.0.tgz#bb0e46f1585a7e289b4ee6067dcc5a6ae62f1dd1"
